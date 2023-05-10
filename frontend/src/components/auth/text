@@ -1,0 +1,11 @@
+<div className='fixed inset-0 bg-primary -z-10 flex justify-center items-center'>
+        <Container>
+            <form className='bg-secondary rounded p-6 space-y-6 '>
+                <div>
+                <Title>Please Enter OTP to verify your account</Title>
+                <p className='text-center text-dark-subtle'>OTP has sent to your Email address</p>
+                </div>
+                <Submit value="Send Link"/>
+            </form>
+        </Container>     
+      </div>
