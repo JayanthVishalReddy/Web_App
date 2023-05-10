@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "6456d3a5c59b33e34abf5131"
+  },
+  "title": "titanic",
+  "storyLine": "jhasdbvf",
+  "releseDate": {
+    "$date": "2023-08-22T00:00:00.000Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "genres": [
+    "Romance",
+    "Sci-Fi",
+    "History"
+  ],
+  "tags": [
+    "ic"
+  ],
+  "cast": [
+    {
+      "actor": {
+        "$oid": "64533080cc1206195e6f3af1"
+      },
+      "roleAs": "hero",
+      "leadActor": true,
+      "_id": {
+        "$oid": "6456d3a5c59b33e34abf5132"
+      }
+    },
+    {
+      "actor": {
+        "$oid": "64533111cc1206195e6f3af7"
+      },
+      "roleAs": "heroin",
+      "leadActor": true,
+      "_id": {
+        "$oid": "6456d3a5c59b33e34abf5133"
+      }
+    }
+  ],
+  "writers": [
+    {
+      "$oid": "64533080cc1206195e6f3af1"
+    }
+  ],
+  "trailer": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/video/upload/v1683411839/cxmjjspaokbhhjakx2m7.mp4",
+    "public_id": "cxmjjspaokbhhjakx2m7"
+  },
+  "reviews": [],
+  "language": "English",
+  "director": {
+    "$oid": "64533080cc1206195e6f3af1"
+  },
+  "poster": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683411879/zlvvrngnnzwoxsxfdfgb.jpg",
+    "public_id": "zlvvrngnnzwoxsxfdfgb",
+    "responsive": [
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_640/v1683411879/zlvvrngnnzwoxsxfdfgb.jpg",
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_373/v1683411879/zlvvrngnnzwoxsxfdfgb.jpg",
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_50/v1683411879/zlvvrngnnzwoxsxfdfgb.jpg"
+    ]
+  },
+  "createdAt": {
+    "$date": "2023-05-06T22:24:40.920Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T09:04:46.622Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6456fe34a9ce3402588821a7"
+  },
+  "title": "RRR",
+  "storyLine": "A tale of two legendary revolutionaries and their journey far away from home. After their journey they return home to start fighting back against British colonialists in the 1920s.",
+  "releseDate": {
+    "$date": "2023-08-20T00:00:00.000Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "genres": [
+    "History",
+    "Drama",
+    "Action",
+    "Music",
+    "Musical",
+    "Adventure",
+    "Thriller"
+  ],
+  "tags": [
+    "historic "
+  ],
+  "cast": [
+    {
+      "actor": {
+        "$oid": "64541c6de33fc35c3d9b53c6"
+      },
+      "roleAs": "hero",
+      "leadActor": true,
+      "_id": {
+        "$oid": "6456fe34a9ce3402588821a8"
+      }
+    },
+    {
+      "actor": {
+        "$oid": "645405d499794a7c9bf18c9e"
+      },
+      "roleAs": "Hero",
+      "leadActor": true,
+      "_id": {
+        "$oid": "6456fe34a9ce3402588821a9"
+      }
+    }
+  ],
+  "writers": [
+    {
+      "$oid": "64533dd8978252b959c62c13"
+    }
+  ],
+  "trailer": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/video/upload/v1683422642/ymwmbtp9uiw2lq4qjmke.mp4",
+    "public_id": "ymwmbtp9uiw2lq4qjmke"
+  },
+  "reviews": [
+    {
+      "$oid": "6457659aa9ce34025888274e"
+    }
+  ],
+  "language": "Hindi",
+  "director": {
+    "$oid": "64533dd8978252b959c62c13"
+  },
+  "poster": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683422773/clwx5hhsnsjv9pt8anf7.jpg",
+    "public_id": "clwx5hhsnsjv9pt8anf7",
+    "responsive": [
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_640/v1683422773/clwx5hhsnsjv9pt8anf7.jpg",
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_520/v1683422773/clwx5hhsnsjv9pt8anf7.jpg",
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_50/v1683422773/clwx5hhsnsjv9pt8anf7.jpg"
+    ]
+  },
+  "createdAt": {
+    "$date": "2023-05-07T01:26:16.201Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T08:47:22.336Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "64570c54a9ce340258882227"
+  },
+  "title": "Suits",
+  "storyLine": "Suits is an American legal drama television series created and written by Aaron Korsh. It premiered on USA Network on June 23, 2011, produced by Universal Content Productions.\r\n\r\nSet at a fictional New York City law firm, it follows Mike Ross (Patrick J. Adams), who uses his photographic memory to talk his way into a job as an associate working for successful closer Harvey Specter (Gabriel Macht), despite being a college dropout who never attended law school.[1] Suits focuses on Harvey and Mike winning lawsuits and closing cases, while at the same time hiding Mike's secret.[2] It also features Rick Hoffman as neurotic lawyer with a prowess in financial law Louis Litt, Meghan Markle as ambitious paralegal Rachel Zane, Sarah Rafferty as Harvey's legal secretary and confidante Donna Paulsen, and Gina Torres as the firm's managing partner, Jessica Pearson.",
+  "releseDate": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "status": "public",
+  "type": "Web Series",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Music",
+    "Mystery",
+    "Thriller",
+    "Western"
+  ],
+  "tags": [
+    "Law"
+  ],
+  "cast": [
+    {
+      "actor": {
+        "$oid": "64533dd8978252b959c62c13"
+      },
+      "roleAs": "hero",
+      "leadActor": true,
+      "_id": {
+        "$oid": "64570c54a9ce340258882228"
+      }
+    },
+    {
+      "actor": {
+        "$oid": "64533080cc1206195e6f3af1"
+      },
+      "roleAs": "hero",
+      "leadActor": true,
+      "_id": {
+        "$oid": "64570c54a9ce340258882229"
+      }
+    },
+    {
+      "actor": {
+        "$oid": "64533111cc1206195e6f3af7"
+      },
+      "roleAs": "heroin",
+      "leadActor": true,
+      "_id": {
+        "$oid": "64570c54a9ce34025888222a"
+      }
+    },
+    {
+      "actor": {
+        "$oid": "64541cc9e33fc35c3d9b53d1"
+      },
+      "roleAs": "Lawyer",
+      "leadActor": false,
+      "_id": {
+        "$oid": "64570c54a9ce34025888222b"
+      }
+    }
+  ],
+  "writers": [
+    {
+      "$oid": "64533080cc1206195e6f3af1"
+    }
+  ],
+  "trailer": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/video/upload/v1683426236/xoyvlec3zotubfd8ikyg.mp4",
+    "public_id": "xoyvlec3zotubfd8ikyg"
+  },
+  "reviews": [
+    {
+      "$oid": "64576f990b0d7a03c6dffa26"
+    }
+  ],
+  "language": "English",
+  "director": {
+    "$oid": "64533080cc1206195e6f3af1"
+  },
+  "poster": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683426389/gndnwxk7turhu9wveosu.jpg",
+    "public_id": "gndnwxk7turhu9wveosu",
+    "responsive": [
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_640/v1683426389/gndnwxk7turhu9wveosu.jpg",
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_50/v1683426389/gndnwxk7turhu9wveosu.jpg"
+    ]
+  },
+  "createdAt": {
+    "$date": "2023-05-07T02:26:31.264Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T09:30:01.694Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "64570e83a9ce34025888227b"
+  },
+  "title": "The Family Man",
+  "storyLine": "The Family Man is an Indian spy thriller streaming television series created by Raj & DK[1] for the streaming service Amazon Prime Video and features Manoj Bajpayee as Srikant Tiwari, a middle-class man secretly working as an intelligence officer for the Threat Analysis and Surveillance Cell (TASC), a fictitious branch of the National Investigation Agency.[2][3] It also stars Priyamani, Sharad Kelkar, Neeraj Madhav, Sharib Hashmi, Dalip Tahil, Sunny Hinduja and Shreya Dhanwanthary. The series is produced and directed by Raj & D.K, who also co-wrote the story and screenplay with Suman Kumar, with dialogue penned by Sumit Arora and Kumar. Samantha Ruth Prabhu was hired for the second season of the series as the main antagonist, making her foray into the digital medium[4] with Suparn S. Verma directing a section of the season.",
+  "releseDate": {
+    "$date": "2023-02-02T00:00:00.000Z"
+  },
+  "status": "public",
+  "type": "TV Series",
+  "genres": [
+    "Superhero",
+    "Drama",
+    "Family",
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Bollywood",
+    "triller "
+  ],
+  "cast": [
+    {
+      "actor": {
+        "$oid": "64533dd8978252b959c62c13"
+      },
+      "roleAs": "hero",
+      "leadActor": true,
+      "_id": {
+        "$oid": "64570e83a9ce34025888227c"
+      }
+    }
+  ],
+  "writers": [
+    {
+      "$oid": "64541cc9e33fc35c3d9b53d1"
+    }
+  ],
+  "trailer": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/video/upload/v1683426858/orzkq8kq5b4rjljwny8i.mp4",
+    "public_id": "orzkq8kq5b4rjljwny8i"
+  },
+  "reviews": [
+    {
+      "$oid": "6458bd5c4531c9d7a5952d82"
+    }
+  ],
+  "language": "Hindi",
+  "director": {
+    "$oid": "64541cc9e33fc35c3d9b53d1"
+  },
+  "poster": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683426948/yi4tbmowplz7a9obbdec.jpg",
+    "public_id": "yi4tbmowplz7a9obbdec",
+    "responsive": [
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_640/v1683426948/yi4tbmowplz7a9obbdec.jpg",
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_505/v1683426948/yi4tbmowplz7a9obbdec.jpg",
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_50/v1683426948/yi4tbmowplz7a9obbdec.jpg"
+    ]
+  },
+  "createdAt": {
+    "$date": "2023-05-07T02:35:50.212Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T09:14:04.767Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "6458b11674df23cd571a9871"
+  },
+  "title": "df",
+  "storyLine": "fdg",
+  "releseDate": {
+    "$date": "2023-02-02T00:00:00.000Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "genres": [
+    "Romance",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "one twr"
+  ],
+  "cast": [
+    {
+      "actor": {
+        "$oid": "645330c0cc1206195e6f3af4"
+      },
+      "roleAs": "hero",
+      "leadActor": true,
+      "_id": {
+        "$oid": "6458b11674df23cd571a9872"
+      }
+    }
+  ],
+  "writers": [
+    {
+      "$oid": "645330c0cc1206195e6f3af4"
+    }
+  ],
+  "trailer": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/video/upload/v1683534060/vzioi5hiavhs1frkgpvk.mp4",
+    "public_id": "vzioi5hiavhs1frkgpvk"
+  },
+  "reviews": [],
+  "language": "English",
+  "director": {
+    "$oid": "64533dd8978252b959c62c13"
+  },
+  "poster": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683534102/fosagyn36g7geb0nqqx4.jpg",
+    "public_id": "fosagyn36g7geb0nqqx4",
+    "responsive": [
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_640/v1683534102/fosagyn36g7geb0nqqx4.jpg",
+      "https://res.cloudinary.com/dpjhcuyoh/image/upload/c_scale,w_50/v1683534102/fosagyn36g7geb0nqqx4.jpg"
+    ]
+  },
+  "createdAt": {
+    "$date": "2023-05-08T08:21:44.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T08:21:44.026Z"
+  },
+  "__v": 0
+}]

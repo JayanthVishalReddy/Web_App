@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "644ec955e22d739c7997c930"
+  },
+  "name": "Sanketh",
+  "email": "saisanketh621@gmail.com",
+  "password": "$2b$10$WCF52DlMUa/zX9D54F97FuMc5pXDg/KAzcmIdT15cHXlsc3AULNLO",
+  "isVerified": true,
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ecdd929abfdfd2eecf7f9"
+  },
+  "name": "sai",
+  "email": "saisanketh407@gmail.com",
+  "password": "$2b$10$H2hw1iuXDJRDZI8gBO4dM.XiexGFLWA15KMyMkptDCY4seApHUgsG",
+  "isVerified": true,
+  "role": "user",
+  "__v": 0
+}]

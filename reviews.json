@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6457659aa9ce34025888274e"
+  },
+  "owner": {
+    "$oid": "644ecdd929abfdfd2eecf7f9"
+  },
+  "parentMovie": {
+    "$oid": "6456fe34a9ce3402588821a7"
+  },
+  "content": "",
+  "rating": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64576f990b0d7a03c6dffa26"
+  },
+  "owner": {
+    "$oid": "644ecdd929abfdfd2eecf7f9"
+  },
+  "parentMovie": {
+    "$oid": "64570c54a9ce340258882227"
+  },
+  "content": "",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6458bd5c4531c9d7a5952d82"
+  },
+  "owner": {
+    "$oid": "644ecdd929abfdfd2eecf7f9"
+  },
+  "parentMovie": {
+    "$oid": "64570e83a9ce34025888227b"
+  },
+  "content": "",
+  "rating": 3,
+  "__v": 0
+}]

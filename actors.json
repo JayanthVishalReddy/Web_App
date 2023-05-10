@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "64533080cc1206195e6f3af1"
+  },
+  "name": "Tom Cruise",
+  "about": "Thomas Cruise is an American actor and producer. One of the world's highest-paid actors, he has received various accolades, including an Honorary Palme d'Or and three Golden Globe Awards, in addition to nominations for four",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683173505/aaw2rxgvoijpmpqcqwmx.jpg",
+    "public_id": "aaw2rxgvoijpmpqcqwmx"
+  },
+  "createdAt": {
+    "$date": "2023-05-04T04:11:45.851Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T04:11:45.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645330c0cc1206195e6f3af4"
+  },
+  "name": "Leonardo Wilhelm DiCaprio",
+  "about": "Leonardo Wilhelm DiCaprio is an American actor and film producer. Known for his work in biographical and period films, he is the recipient of numerous accolades, including an Academy Award, a British Academy Film Award and three Golden Globe Awards.",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683173569/jmfa2ngpfcoexszmonru.jpg",
+    "public_id": "jmfa2ngpfcoexszmonru"
+  },
+  "createdAt": {
+    "$date": "2023-05-04T04:12:49.663Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T04:12:49.663Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64533111cc1206195e6f3af7"
+  },
+  "name": "Kate Elizabeth Winslet",
+  "about": "Kate Elizabeth Winslet CBE (/ˈwɪnzlət/;[2] born 5 October 1975) is an English actress.[3] Known for her work in independent films, particularly period dramas, and for her portrayals of headstrong and complicated women, she has received numerous accolades, including an Academy Award, a Grammy Award, two Primetime Emmy Awards, three BAFTA Awards, and five Golden Globe Awards. Time magazine named Winslet one of the 100 most influential people in the world in 2009 and 2021. She was appointed Commander of the Order of the British Empire (CBE) in 2012.",
+  "gender": "female",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683173650/yqkp6rgqtfmgo0go7w2l.jpg",
+    "public_id": "yqkp6rgqtfmgo0go7w2l"
+  },
+  "createdAt": {
+    "$date": "2023-05-04T04:14:10.738Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T04:14:10.738Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64533dd8978252b959c62c13"
+  },
+  "name": "Tarak",
+  "about": "Nandamuri Taraka Rama Rao Jr., also known as Jr. N.T.R. or Tarak, is an Indian actor who primarily works in Telugu cinema. One of the highest paid Telugu film actors, Rama Rao Jr. has won several accolades, including two Filmfare Awards, two state Nandi Awards, and four CineMAA Awards.",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683176920/fgtk8amcr2vdamf2hkyi.jpg",
+    "public_id": "fgtk8amcr2vdamf2hkyi"
+  },
+  "createdAt": {
+    "$date": "2023-05-04T05:08:41.418Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T02:06:28.615Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645405d499794a7c9bf18c9e"
+  },
+  "name": "N.T.R",
+  "about": "another n.t.r",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683228117/n4vbg4lbxuejxyhltk11.jpg",
+    "public_id": "n4vbg4lbxuejxyhltk11"
+  },
+  "createdAt": {
+    "$date": "2023-05-04T19:21:57.828Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T03:37:36.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64541c6de33fc35c3d9b53c6"
+  },
+  "name": "Ram Charan",
+  "about": "Konidela Ram Charan is an Indian actor, producer, and entrepreneur who primarily works in Telugu films. One of the highest-paid actors in Indian cinema, he is the recipient of three Filmfare Awards and two Nandi Awards. Since 2013, he has featured in Forbes India's Celebrity 100 list",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683233901/w6xxxr52xreqhce4hfar.jpg",
+    "public_id": "w6xxxr52xreqhce4hfar"
+  },
+  "createdAt": {
+    "$date": "2023-05-04T20:58:22.546Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T20:58:22.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64541cc9e33fc35c3d9b53d1"
+  },
+  "name": "Ravi Teja",
+  "about": "Bhupatiraju Ravi Shankar Raju, known professionally as Ravi Teja, is an Indian film actor and producer who mainly works in Telugu cinema. Known for his roles in action comedy films, he is popular by the moniker \"Mass Maharaja\".",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683233994/dj0dymu7didmqtx7b4gh.jpg",
+    "public_id": "dj0dymu7didmqtx7b4gh"
+  },
+  "createdAt": {
+    "$date": "2023-05-04T20:59:54.932Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T20:59:54.932Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64542ce0f6fc46a82fb52e70"
+  },
+  "name": "Mahesh Babu",
+  "about": "Ghattamaneni Mahesh Babu is an Indian actor, producer, media personality, and philanthropist who works mainly in Telugu cinema.",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683238113/lbfvxuwulb04swpdcwox.jpg",
+    "public_id": "lbfvxuwulb04swpdcwox"
+  },
+  "createdAt": {
+    "$date": "2023-05-04T22:08:33.909Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T02:06:36.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6455e0e4247a319b34a3c450"
+  },
+  "name": "ram 22",
+  "about": "bedfkknsjd",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683349733/iyb9mmlihsritnsu6lkz.jpg",
+    "public_id": "iyb9mmlihsritnsu6lkz"
+  },
+  "createdAt": {
+    "$date": "2023-05-06T05:08:53.542Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T21:26:07.144Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6455e25d247a319b34a3c45f"
+  },
+  "name": "nn",
+  "about": "sfv",
+  "gender": "male",
+  "avatar": {
+    "url": "https://res.cloudinary.com/dpjhcuyoh/image/upload/v1683350110/dd4p0dcltxbsg6kapufq.jpg",
+    "public_id": "dd4p0dcltxbsg6kapufq"
+  },
+  "createdAt": {
+    "$date": "2023-05-06T05:15:11.409Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T05:15:11.409Z"
+  },
+  "__v": 0
+}]
